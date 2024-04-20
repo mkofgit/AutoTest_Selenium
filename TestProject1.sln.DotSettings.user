@@ -1,9 +1,18 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c0f4377_002Dbc1b_002D4837_002Da026_002D9a7e8134b4d9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Protests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8032de4e_002D777b_002D44f0_002Db06b_002D27301fee39dd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SearchAccounts" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c0f4377_002Dbc1b_002D4837_002Da026_002D9a7e8134b4d9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Protests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::AD2B9C86-D3CE-4861-9813-033C4691EDEF::net7.0::TestProject1.Tests+Protests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AD2B9C86-D3CE-4861-9813-033C4691EDEF::net7.0::TestProject1.NowProject.EditAdditionalEmail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AD2B9C86-D3CE-4861-9813-033C4691EDEF::net7.0::TestProject1.NowProject.CreateCommunity&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ddfe22e1_002D3eee_002D4f3d_002D915e_002D93f7542f4f69/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Protests1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d5b7b6f6_002D62b5_002D4f11_002D848c_002Dad8f5fbc152a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Authorization" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AD2B9C86-D3CE-4861-9813-033C4691EDEF::net7.0::TestProject1.NowProject&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ddfe22e1_002D3eee_002D4f3d_002D915e_002D93f7542f4f69/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Protests1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Solution /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
