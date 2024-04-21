@@ -1,7 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=340dc18e_002D5635_002D410d_002D81ba_002D125e29d1d8ff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NavigationTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::AD2B9C86-D3CE-4861-9813-033C4691EDEF::net7.0::TestProject1.SeleniumTest.NavigationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AD2B9C86-D3CE-4861-9813-033C4691EDEF::net7.0::SeleniumTestForPractics_Lobashov.SeleniumTest.TestSearch&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c0f4377_002Dbc1b_002D4837_002Da026_002D9a7e8134b4d9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Protests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
